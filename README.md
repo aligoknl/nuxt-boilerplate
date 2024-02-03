@@ -1,1 +1,2 @@
-# nuxt-boilerplate
+# nuxt-boilerplate 
+TypeScript
